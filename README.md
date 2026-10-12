@@ -1,6 +1,6 @@
 # Learning C++
 
-Small exercises from when I first started learning C++ (August–September 2026). Each folder is a single-file program.
+Small exercises from when I first started learning C++ (August 2026). Each folder is a single-file program.
 
 | Program | What it practises |
 |---------|-------------------|
